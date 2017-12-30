@@ -1,7 +1,20 @@
 theme: jekyll-theme-minimal
 title: Nate J. Lindsey
-description: 2015 -            PhD in Geophysics, University of California, Berkeley
-2011 - 2012   MSc in Geophysics, University of Edinburgh
-2006 - 2010   BS in Interdepartmental Engineering, University of Rochester
+#description: 2015 -            PhD in Geophysics, University of California, Berkeley
+#2011 - 2012   MSc in Geophysics, University of Edinburgh
+#2006 - 2010   BS in Interdepartmental Engineering, University of Rochester
 
-Google Scholar
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
