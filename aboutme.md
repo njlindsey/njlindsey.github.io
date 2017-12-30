@@ -4,12 +4,17 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+2002-2006   Bachelor of Science in Geophysics, Special Class for the Gifted Young, USTC
+2006-2008   Master of Science in Geophysics, Department of Geophysics, USTC
+2008-2013   Doctor of Philosophy in Geophysics, California Institute of Technology
+2013-2015   Postdoctoral Researcher, University of California, San Diego
+2015-            Assistant Professor of Geophysics, California Institute of Technology
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Curriculum Vitae (pdf)
 
-What else do you need?
+Google Scholar
+
+
 
 ### my history
 
