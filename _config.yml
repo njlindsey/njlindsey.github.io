@@ -1,8 +1,31 @@
-theme: jekyll-theme-minimal
-title: Nate J. Lindsey
+# --- Navigation bar options --- #
+
+#theme: jekyll-theme-minimal
+#title: Nate J. Lindsey
 #description: 2015 -            PhD in Geophysics, University of California, Berkeley
 #2011 - 2012   MSc in Geophysics, University of Edinburgh
 #2006 - 2010   BS in Interdepartmental Engineering, University of Rochester
+
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+#url: "http://username.github.io"
+#baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
+
+# Name of website
+title: My website
+
+# Short description of your site
+description: A virtual proof that name is awesome!
 
 # --- Navigation bar options --- #
 
