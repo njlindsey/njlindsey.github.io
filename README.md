@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Nate J. Lindsey
 
-You can use the [editor on GitHub](https://github.com/njlindsey/njlindsey.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. Candidate in The Department of Earth and Planetary Sciences, UC Berkeley
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+2015 -            PhD in Geophysics, University of California, Berkeley
+2011 - 2012   MSc in Geophysics, University of Edinburgh
+2006 - 2010   BS in Interdepartmental Engineering, University of Rochester
+
+Google Scholar
 
 ### Markdown
 
