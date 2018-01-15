@@ -48,5 +48,5 @@ menu:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl:
+baseurl: njlindsey.github.io
 locale: en_GB
