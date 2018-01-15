@@ -215,11 +215,11 @@ pre {
 .cv hr {margin: 0.5em auto 1.5em auto;}
 .cv .row > [class*='col-'] {display: block;}
 .cv .col-sm-10 * {display: inline;}
-.cv .col-sm-10 h1, 
-.cv .col-sm-10 h2, 
-.cv .col-sm-10 h3, 
-.cv .col-sm-10 h4, 
-.cv .col-sm-10 h5, 
+.cv .col-sm-10 h1,
+.cv .col-sm-10 h2,
+.cv .col-sm-10 h3,
+.cv .col-sm-10 h4,
+.cv .col-sm-10 h5,
 .cv .col-sm-10 h6 {display: block;}
 .cv .col-sm-10 .text-justify {display: block;}
 .cv .container-fluid,
@@ -363,4 +363,3 @@ pre {
 @media only screen and (min-width: 768px) {}
 @media only screen and (min-width: 992px) {}
 @media only screen and (min-width: 1200px) {}
-
