@@ -1,26 +1,22 @@
 name: Nate Lindsey
 description: Personal website
 menu:
- - page: About
-   url: /about
- - page: Papers
-   url: /papers
+ - page: Research
+   url: /research
+   links:
+    - title: "Fiber-Optic Seismology"
+      url: "#project-one"
+    - title: "Thawing Permafrost"
+      url: "#project-two"
+    - title: "3-D Magnetotelluric Imaging of Geothermal Systems"
+      url: "#project-three"
+ - page: Publications
+   url: /publications
    links:
     - title: Working papers
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
- - page: Research Projects
-   url: /research
-   links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
  - page: Curriculum Vitae
    url: /cv
    links:
@@ -32,12 +28,6 @@ menu:
       url: "#positions"
     - title: Miscellaneous
       url: "#miscellaneous"
- - page: Teaching
-   url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
 # menu_external:
 #  - title: OleVik.me
 #    url: "http://olevik.me/"
