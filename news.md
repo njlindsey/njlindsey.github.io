@@ -1,26 +1,9 @@
 ---
-title: "About"
-summary: "About this page."
+title: "News"
+summary: "Recent updates."
 date: 2016-04-13
 layout: default
 ---
-
-
-# About Me   
-**2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
-\
-**2011 - 2012** -- MSc. in Geophysics, University of Edinburgh
-\
-**2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory
-\
-**2015 - 2020**            -- Ph.D. in Geophysics, University of California, Berkeley
-
-[GitHub] (https://github.com/njlindsey)
-\
-[Google Scholar] (https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en)
-
-# News  
-
 [12/29/2017] Temblor post on our GRL paper and AGU poster: "Do Magnitude 7-8 mainshocks commonly trigger immediate damaging aftershocks up to 300 km away?”
 
 [04/12/2017] Chunquan Yu receives scholarship to attend the 2017 EarthScope National Meeting. His presentation is about strong body-to-surface wave scattering recorded by the USArray. Congratulations!

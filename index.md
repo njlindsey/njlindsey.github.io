@@ -5,79 +5,14 @@ date: 2016-04-13
 layout: default
 ---
 
-A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
+## Research Statement
+My research focuses on processes that are relevant to humans. I am interested in original observations of Earth signals, and the hypotheses that motivate them. I use a new type of distributed seismic sensor called distributed acoustic sensing to study earthquakes, seismic wave propagation, urban ambient noise sources, soil-rock-water interactions, and permafrost thaw.
 
-## Features
-- Minimal, clean design
-	- CV-specific print-style
-- Responsive layout with collapsible sidebar-menu
-	- Hierarchical menu with deep linking
-- Site-wide search-system
-- Simple social sharing buttons
-- Optional MathJax for displaying mathematical notations
+## News
+12/08 Nate interviewed by PhysicsToday [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
+11/01 GRL [this quick guide](https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/).
 
-## Setup
-
-1. Register an account with GitHub
-2. Fork `https://github.com/OleVik/personal-academic-website`
-3. Rename repository to `username.github.io`, where `username` is your GitHub-username
-4. Set `baseurl` to `username.github.io` in `_config.yml`
-5. Edit Markdown-files (`.md`)
-
-Edit the pages using any Markdown-editor (see below) or text-editor, then upload them.
-
-### Custom Domain
-If you want to use a custom domain, ie. not `username.github.io` but something like `mywebsite.com`, read [this guide](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
-
-## Workflow
-Pages are written Markdown and use FrontMatter. For Markdown, see [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html) or [this quick guide](https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/). Alternatively, view the default "Hello"-document on [StackEdit](https://stackedit.io/editor).
-
-### FrontMatter
-Defines the settings for each page, using this format (minimal requirements for each page):
-
-- Title: Double quote-encapsulated string naming the page
-- Summary: Double quote-encapsulated string describing the page
-- Date: Date for when the page was written (YYYY-MM-DD)
-- Layout: String governing layout to use, either "default" or "cv" (no quotes)
-
-For example:
-
-```
----
-title: "About"
-summary: "About this page."
-date: 2016-04-02
-layout: default
----
-```
-
-More options are [available here](https://jekyllrb.com/docs/frontmatter/).
-
-Notes:
-
-1. Indentation, if used, must be two spaces (not tabs).
-2. Colons (`:`) can only be used in strings if enclosed in quotes.
-3. Dashes can be used in strings, but should otherwise also be enclosed in quotes (see [this](https://docs.saltstack.com/en/latest/topics/yaml/)).
-
-### FrontMatter for the CV
-- Layout must be "cv" (`layout: cv`)
-- See `cv.md` for other variables
-- List-elements are the following: `experience, education, positions`
-	- These consist of nested lists in YAML, for example:
-
-```
-education:
-  - years: 2013-2015
-    name: Master’s Degree
-    location: University
-    description: Includes qualitative and quantitative methods.
-  - years: 2010-2013
-    name: Bachelor’s Degree
-    location: University
-    description: Includes statistics and maths.
-```
-
-To add other list-elements, edit `_layouts/cv.html`, and duplicate the blocks of code including a for-loop, changing the variable (`page.variable`) in:
+###
 
 ```
 {% raw %}{% for item in page.experience %}
