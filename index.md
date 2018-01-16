@@ -5,8 +5,18 @@ date: 2016-04-13
 layout: default
 ---
 
-## Research Statement
-My research focuses on processes that are relevant to humans. I am interested in original observations of Earth signals, and the hypotheses that motivate them. I use a new type of distributed seismic sensor called distributed acoustic sensing to study earthquakes, seismic wave propagation, urban ambient noise sources, soil-rock-water interactions, and permafrost thaw.
+# About Me   
+**2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
+\
+**2011 - 2012** -- MSc. in Geophysics, University of Edinburgh
+\
+**2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory
+\
+**2015 - 2020**            -- Ph.D. in Geophysics, University of California, Berkeley
+
+[GitHub] (https://github.com/njlindsey)
+\
+[Google Scholar] (https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en)
 
 ## News
 12/08 Nate interviewed by PhysicsToday [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
