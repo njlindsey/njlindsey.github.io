@@ -6,11 +6,11 @@ layout: default
 ---
 ![Researcher Portrait](assets/images/rfs/nateSplice.jpg "nateSplice"){:width="720px"}
 
-[2017-Dec-15]  Nate presented a poster at the AGU Fall Meeting in New Orleans...thanks for the travel grant PYRN! [Link]
+[2017-Dec-15]  Nate presented a poster at the AGU Fall Meeting in New Orleans...thanks for the travel grant PYRN! [Link]()
 \\
-[2017-Dec-01]  'Fiber-Optic Network Observations of Earthquake Wavefields' published in Geophysical Research Letters [Link](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full)
+[2017-Dec-08]  'Fiber-Optic Network Observations of Earthquake Wavefields' published in Geophysical Research Letters [Link](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full)
 \\
---> Featured in [Scientific American's 60-second Podcast](), [Physics Today](http://physicstoday.scitation.org/do/10.1063/PT.6.1.20180108a/full/), [Science Magazine](http://science.sciencemag.org/content/358/6369/1398.7), [Smithsonian.com](https://www.smithsonianmag.com/innovation/could-fiber-optics-detect-earthquakes-180967585/), The AGU Blog, and EARTH Magazine
+\              \--> Featured in [Scientific American](https://www.scientificamerican.com/podcast/episode/dark-fiber-networks-can-sense-seismicity/), [Physics Today](http://physicstoday.scitation.org/do/10.1063/PT.6.1.20180108a/full/), [Science Magazine](http://science.sciencemag.org/content/358/6369/1398.7), [Smithsonian.com](https://www.smithsonianmag.com/innovation/could-fiber-optics-detect-earthquakes-180967585/), [The AGU Blog](https://blogs.agu.org/geospace/2017/12/05/dark-fiber-using-sensors-beneath-our-feet-to-tell-us-about-earthquakes-water-and-other-geophysical-phenomenon/)
 \\
 [2017-Sep-15]  Nate installed a [Guralp CMG-3T seismometer](http://www.guralp.com/products/instruments/guralp-3-series) with new [Minimus Digitizer](http://www.guralp.com/products/data-acquisition/guralp-minimus) in Sacramento, CA as part of the FOSSA experiment
 \\
