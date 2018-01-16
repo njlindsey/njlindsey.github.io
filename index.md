@@ -10,7 +10,7 @@ layout: default
 \\
 [2017-Dec-08]  Smithsonian.com covered [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 \\
-[2016-Sep-15]  Nate installed a Guralp CMG-3T seismometer in Sacramento, CA as part of the FOSSA experiment
+[2017-Sep-15]  Nate installed a Guralp CMG-3T seismometer in Sacramento, CA as part of the FOSSA experiment
 \\
 [2017-Dec-08]  Physics Today covered [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 \\
@@ -22,11 +22,13 @@ layout: default
 \\
 [2017-Dec-08]  Fiber-Optic Seismology featured in the BSL [2016-2017 Annual Report](http://ricostacruz.com/cheatsheets/markdown.html)
 \\
+[2017-Dec-08]  Nate installed a Silixa iDAS in Goldstone JPL [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
+\\
 [2017-Sep-10]  Nate attended Geosciences Congressional Visits Day in Washington, DC
 \\
 [2017-Sep-15]  'Distributed Acoustic Sensing for Seismic Monitoring of The Near Surface: A Traffic-Noise Interferometry Case Study' published in Science Reports
 \\
-[2016-Sep-15]  Nate installed the Silixa iDAS in West Sacramento, CA as part of the FOSSA experiment
+[2016-Sep-15]  Nate installed a Silixa iDAS in West Sacramento, CA as part of the FOSSA experiment
 \\
 [2017-Jul-23]  Nate presented a poster on permafrost thaw at the Critical Zone Observatory Meeting at Stanford University
 \\
