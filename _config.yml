@@ -8,6 +8,8 @@ menu_external:
  - title: GitHub
    url: (assets/njlindsey_CV_oct2017)
 menu:
+ - page: About Me
+   url: /about
  - page: Research
    url: /research
    links:
@@ -24,8 +26,8 @@ menu:
       url: "#working-papers"
     - title: Published papers
       url: "#published-papers"
- - page: Curriculum Vitae
-   url: /cv
+ - page: Cool Stuff!
+   url: /neat
    links:
     - title: Experience
       url: "#experience"
