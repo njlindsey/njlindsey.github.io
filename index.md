@@ -5,7 +5,7 @@ date: 2018-Jan-15
 layout: default
 ---
 
-![Researcher Portrait](assets/images/isabellaPahohoe.jpb "isabella")
+![Researcher Portrait](assets/images/isabellaPahoehoe.jpg "isabella")
 
 **2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
 \\
