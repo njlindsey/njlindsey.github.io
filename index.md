@@ -6,8 +6,9 @@ layout: default
 ---
 **2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
 
-**2011 - 2012** -- MSc. in Geophysics, University of Edinburgh\n
+**2011 - 2012** -- MSc. in Geophysics, University of Edinburgh\
 **2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory
+\\
 **2015 - today**-- Ph.D. in Geophysics, University of California, Berkeley
 
 [GitHub](https://github.com/njlindsey) [Google Scholar](https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en)
@@ -16,6 +17,7 @@ layout: default
 [2017-Dec-08]  Science featured our work [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 [2017-Dec-08]  Smithsonian.com covered [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 [2017-Dec-08]  Physics Today covered [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
+\\
 [2017-Dec-15]  Nate presented a poster at the AGU Fall Meeting in New Orleans...thanks for the travel grant PYRN!
 [2017-Dec-08]  Scientific American 60-second podcast covered [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 [2017-Dec-01]  'Fiber-Optic Network Observations of Earthquake Wavefields' published in Geophysical Research Letters
