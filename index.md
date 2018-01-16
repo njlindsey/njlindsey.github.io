@@ -12,9 +12,9 @@ layout: default
 \\
 **2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory
 \\
-**2015 -**      \t -- Ph.D. in Geophysics, University of California, Berkeley
+**2015 -**       -- Ph.D. in Geophysics, University of California, Berkeley
 \\
-[Google Scholar](https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en) ~ 
+[Google Scholar](https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en) ~
 [GitHub](https://github.com/njlindsey)
 
 ## News
