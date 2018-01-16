@@ -12,4 +12,4 @@ layout: default
 \\
 **2015 -**			-- Ph.D. in Geophysics, University of California, Berkeley
 
-![Researcher Portrait](assets/images/fairbanks/nateTrench.JPG "nateface"){:height="480px" width="1080px"}
+![Researcher Portrait](assets/images/fairbanks/nateTrench.JPG "nateface"){:width="1080px"}

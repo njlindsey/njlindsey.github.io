@@ -5,7 +5,6 @@ date: 2016-04-13
 layout: default
 ---
 
-## Research Statement
 My research focuses on processes that are relevant to humans. I am interested in original observations of Earth signals, and the hypotheses that motivate them. I use a new type of distributed seismic sensor called distributed acoustic sensing to study earthquakes, seismic wave propagation, urban ambient noise sources, soil-rock-water interactions, and permafrost thaw.
 
 ## Project One
