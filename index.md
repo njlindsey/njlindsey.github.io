@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "News"
 summary: "About this page."
 date: 2018-Jan-15
 layout: default
@@ -7,8 +7,6 @@ layout: default
 
 ![Researcher Portrait](assets/images/galapagos/isabellaPahoehoe.jpg "isabella"){:height="480px" width="1080px"}
 
-
-## News
 [2017-Dec-08]  Science featured our work [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 \\
 [2017-Dec-08]  Smithsonian.com covered [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
