@@ -6,7 +6,6 @@ layout: default
 ---
 
 ![Researcher Portrait](assets/images/isabellaPahoehoe.jpg "isabella")
-
 **2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
 \\
 **2011 - 2012** -- MSc. in Geophysics, University of Edinburgh
@@ -18,7 +17,7 @@ layout: default
 [GitHub](https://github.com/njlindsey)
 \\
 [Google Scholar](https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en)
-\\
+
 ## News
 [2017-Dec-08]  Science featured our work [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 \\
