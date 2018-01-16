@@ -4,7 +4,7 @@ summary: "About this page."
 date: 2018-Jan-15
 layout: default
 ---
-![Researcher Portrait](assets/images/rfs/nateSplice.jpg "nateSplice"){:height="480px"}
+![Researcher Portrait](assets/images/rfs/nateSplice.jpg "nateSplice"){:width="720px"}
 
 [2017-Dec-08]  Science featured our work [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
 \\
