@@ -5,7 +5,7 @@ date: 2018-Jan-15
 layout: default
 ---
 
-![Researcher Portrait](assets/images/galapagos/isabellaPahoehoe.jpg "isabella"){:height="24px" width="48px"}
+![Researcher Portrait](assets/images/galapagos/isabellaPahoehoe.jpg "isabella"){:height="480px" width="960px"}
 
 **2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
 \\
