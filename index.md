@@ -5,7 +5,7 @@ date: 2018-Jan-15
 layout: default
 ---
 
-![Researcher Portrait](assets/images/galapagos/isabellaPahoehoe.jpg "isabella"){:height="480px" width="960px"}
+![Researcher Portrait](assets/images/galapagos/isabellaPahoehoe.jpg "isabella"){:height="480px" width="1080px"}
 
 
 ## News
