@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Fieldwork"
 summary: "Recent updates."
 date: 2016-04-13
 layout: default
@@ -19,5 +19,3 @@ layout: default
 [10/03/2015] New regional seismic data confirm the supershear rupture during the 24 May 2013 Mw 6.7 Okhotsk deep earthquake. This paper is now available on Geophysical Research Letters with Early-View.
 
 [09/24/2015]  Our GRL paper about possible seasonality in large deep earthquakes is covered by New Scientist.
-
-![Researcher Portrait](assets/images/nateTrench.JPG "nate pic")
