@@ -1,10 +1,10 @@
 name: Nate Lindsey
 description: Personal website
 menu_external:
- - title: cv
-   url: "https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en"
- - title: Google Scholar
-   url: "https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en"
+title: cv
+url: "https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en"
+title: Google Scholar
+url: "https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en"\\
  - title: GitHub
    url: (assets/njlindsey_CV_oct2017)
 menu:
