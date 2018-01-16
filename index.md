@@ -1,17 +1,16 @@
 ---
 title: "About Me"
 summary: "About this page."
-date: 2016-04-13
+date: 2018-Jan-15
 layout: default
 ---
 **2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
+\
 **2011 - 2012** -- MSc. in Geophysics, University of Edinburgh
 **2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory
-**2015 -     **            -- Ph.D. in Geophysics, University of California, Berkeley
+**2015 - today**-- Ph.D. in Geophysics, University of California, Berkeley
 
-[GitHub](https://github.com/njlindsey)
-
-[Google Scholar](https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en)
+[GitHub](https://github.com/njlindsey) [Google Scholar](https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en)
 
 ## News
 [2017-Dec-08]  Science featured our work [this cheatsheet](http://ricostacruz.com/cheatsheets/markdown.html)
@@ -27,4 +26,3 @@ layout: default
 [2016-Apr-15]  Nate presented a white paper on DAS at the Cascadia Offshore Earthquake Early Warning Conference
 [2016-Dec-13]  Nate presented on DAS earthquake observations at the AGU Fall Meeting in San Francisco
 [2016-Sep-15]  Nate wrapped up the permafrost thaw experiment in Fairbanks, Alaska...>10 cm of subsidence from 2 months!
-[2015-Aug-20]  Nate wrapped up the field season in Fairbanks, Alaska
