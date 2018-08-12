@@ -4,7 +4,7 @@ summary: "About this page."
 date: 2018-Aug-12
 layout: default
 ---
-<img align="left" width="900" height="300" src="assets/images/galapagos/isabellaPahoehoe.jpg">
+<img align="center" width="900" height="300" src="assets/images/galapagos/isabellaPahoehoe.jpg">
 
 ## Announcements
 Nate will present on permafrost thaw and DAS at NS003 at the AGU at 11:00am on Wednesday Dec 13, 2018 in XX Room.
