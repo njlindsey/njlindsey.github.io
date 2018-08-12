@@ -7,6 +7,7 @@ layout: default
 
 My research focuses on shallow surface processes that are relevant to humans. I am motivated by interesting signals, original methods, and hypothesis-based testing.
 
+<img align="left" width="400" height="250" src="assets/images/rfs/nateSplice.JPG">
 ## Fiber-Optic Geophysics
 I currently work on distributed acoustic sensing (DAS) which is a new form of fiber-optic sensing. More established forms of fiber-optic geophysics include distributed temperature sensing (DTS) and distributed strain sensing (DSS),
 
