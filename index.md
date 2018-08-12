@@ -7,7 +7,7 @@ layout: default
 I am currently a PhD student in the [Earth and Planetary Science Department](https://sites.agu.org/) at UC Berkeley, where I am applying new distributed fiber optic sensor methods to study Alaskan permafrost thaw, fluid-solid seafloor dynamics, and common anthropogenic noise sources.
 \\
 \\
-I am an affiliate of the [Berkeley Seismological Laboratory]](https:http://seismo.berkeley.edu/) and [Lawrence Berkeley National Laboratory]](https://www.lbl.gov), and a member of the [American Geophysical Union](https://sites.agu.org/), [Society of Exploration Geophysicists](https://seg.org/), and [Bay Area Geophysical Society](http://bayareageophysicalsociety.org/).
+I am an affiliate of the [Berkeley Seismological Laboratory]](https:http://seismo.berkeley.edu/) and [Lawrence Berkeley National Laboratory]](http://www.lbl.gov/), and a member of the [American Geophysical Union](https://sites.agu.org/), [Society of Exploration Geophysicists](https://seg.org/), and [Bay Area Geophysical Society](http://bayareageophysicalsociety.org/).
 
 ![Researcher Portrait](assets/images/fairbanks/nateTrench.JPG "nateTrench"){:width="360px"}
 **2015 -**			-- Ph.D. in Geophysics, University of California, Berkeley
