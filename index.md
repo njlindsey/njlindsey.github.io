@@ -4,7 +4,7 @@ summary: "About this page."
 date: 2018-Aug-12
 layout: default
 ---
-<img align="left" width="200" height="120" src="assets/images/fairbanks/nateTrench.JPG">
+<img align="left" width="400" height="250" src="assets/images/fairbanks/nateTrench.JPG">
 **2015 - Today**-- Ph.D. in Geophysics, University of California, Berkeley
 \\
 **2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory
@@ -16,6 +16,8 @@ layout: default
 
 I am currently a PhD student in the [Earth and Planetary Science Department](https://sites.agu.org/) at UC Berkeley, where I study Alaskan permafrost thaw, fluid-solid seafloor dynamics, and common anthropogenic noise sources with distributed fiber optic geophysics.
 \\
+\\
 I am an affiliate of the [Berkeley Seismological Laboratory](https:http://seismo.berkeley.edu/) and [Lawrence Berkeley National Laboratory](http://www.lbl.gov/), and a member of the [American Geophysical Union](https://sites.agu.org/), [Society of Exploration Geophysicists](https://seg.org/), and [Bay Area Geophysical Society](http://bayareageophysicalsociety.org/).
+\\
 \\
 I live in Oakland, CA
