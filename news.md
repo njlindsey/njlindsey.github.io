@@ -7,7 +7,7 @@ layout: default
 ## Announcements
 Nate will present on permafrost thaw and DAS at NS003 at the AGU at 11:00am on Wednesday Dec 13, 2018 in XX Room.
 
-Nate will
+Nate will present on Seafloor DAS in Monterey Bay at the Monterey Bay Aquatic Research Institute on October 3, 2018 at 11:00am in XX Room
 
 ## News
 [2018-Aug-03] Nate co-authored a paper on Dark Fiber Seismology on arXiv [Link]()
