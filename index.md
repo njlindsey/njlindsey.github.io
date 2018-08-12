@@ -1,9 +1,11 @@
 ---
-title: "About Me"
+title: "Nate Lindsey"
 summary: "About this page."
 date: 2018-Jan-15
 layout: default
 ---
+I am currently a PhD student in the Earth and Planetary Science Department at University of California, Berkeley
+
 ![Researcher Portrait](assets/images/fairbanks/nateTrench.JPG "nateTrench"){:width="360px"}
 **2015 -**			-- Ph.D. in Geophysics, University of California, Berkeley
 \\
