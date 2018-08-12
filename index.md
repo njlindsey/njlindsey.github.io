@@ -10,7 +10,6 @@ layout: default
 **2011 - 2012** -- MSc. in Geophysics, University of Edinburgh \\
 **2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester \\
 
-
 I am currently a PhD student in the [Earth and Planetary Science Department](https://sites.agu.org/) at UC Berkeley, where I study Alaskan permafrost thaw, fluid-solid seafloor dynamics, and common anthropogenic noise sources with distributed fiber optic geophysics.
 \\
 \\
