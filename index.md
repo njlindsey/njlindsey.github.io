@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "Nate Lindsey"
 summary: "About this page."
 date: 2018-Jan-15
 layout: default
@@ -8,7 +8,7 @@ layout: default
 \\
 [2018-Jul-27] Nate co-authored a paper on Permafrost Thaw [Link]()
 \\
-[2018-Jul-13] Nate presented on "" at the Seafloor Sensors Workshop in Newport, OR [Link]()
+[2018-Jul-13] Nate presented on offshore at the Seafloor Sensors Workshop in Newport, OR [Link]()
 \\
 [2018-Jun-28] Nate presented on "" at the European Conference on Permafrost 2018 in Chamonix, France [Link]()
 \\
