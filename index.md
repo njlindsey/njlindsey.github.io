@@ -11,8 +11,7 @@ layout: default
 \\
 **2011 - 2012** -- MSc. in Geophysics, University of Edinburgh
 \\
-**2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
-\\
+**2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester\\
 
 
 
