@@ -11,7 +11,6 @@ A skeleton-site for a personal academic website, written in Jekyll for hosting w
 - Optional MathJax for displaying mathematical notations
 
 ## Setup
-
 1. Register an account with GitHub
 2. Fork `https://github.com/OleVik/personal-academic-website`
 3. Rename repository to `username.github.io`, where `username` is your GitHub-username
@@ -62,11 +61,11 @@ Notes:
 ```
 education:
   - years: 2013-2015
-    name: Master’s Degree
+    name: Masterï¿½s Degree
     location: University
     description: Includes qualitative and quantitative methods.
   - years: 2010-2013
-    name: Bachelor’s Degree
+    name: Bachelorï¿½s Degree
     location: University
     description: Includes statistics and maths.
 ```

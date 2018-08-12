@@ -11,6 +11,11 @@ url: (assets/njlindsey_CV_oct2017)"
 menu:
  - page: News
    url: /news
+   links:
+    - title: Upcoming
+    url: "#upcoming"
+    - title: news
+    url: "#news"
  - page: Research
    url: /research
    links:

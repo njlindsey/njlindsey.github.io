@@ -4,6 +4,14 @@ summary: "About this page."
 date: 2018-Jan-15
 layout: default
 ---
+"Papers" introductory paragraph.
+
+## Announcements
+Nate will present on permafrost thaw and DAS at NS003 at the AGU at 11:00am on Wednesday Dec 13, 2018 in XX Room.
+
+Nate will
+
+## News
 [2018-Aug-03] Nate co-authored a paper on Dark Fiber Seismology on arXiv [Link]()
 \\
 [2018-Jul-27] Nate co-authored a paper on Permafrost Thaw [Link]()
