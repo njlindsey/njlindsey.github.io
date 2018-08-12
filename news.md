@@ -1,5 +1,5 @@
 ---
-title: "Nate Lindsey"
+title: "Nate in the News!"
 summary: "About this page."
 date: 2018-Jan-15
 layout: default
