@@ -9,8 +9,8 @@ url: "https://scholar.google.com/citations?user=_6khFkYAAAAJ&hl=en"
 title: GitHub
 url: (assets/njlindsey_CV_oct2017)"
 menu:
- - page: About Me
-   url: /about
+ - page: News
+   url: /news
  - page: Research
    url: /research
    links:
