@@ -21,7 +21,7 @@ menu:
     - title: "3-D Magnetotelluric Imaging of Geothermal Systems"
       url: "#project-three"
  - page: Publications
-   url: /publications
+   url: /papers
    links:
     - title: Working papers
       url: "#working-papers"
