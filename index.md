@@ -4,13 +4,20 @@ summary: "About this page."
 date: 2018-Jan-15
 layout: default
 ---
-[2018-Aug-03] Nate co-authored a paper on Dark Fiber Seismology on arXiv [Link]()\\
-[2018-Jul-27] Nate co-authored a paper on Permafrost Thaw [Link]()\\
-[2018-Jul-13] Nate presented on "" at the Seafloor Sensors Workshop in Newport, OR [Link]()\\
-[2018-Jun-28] Nate presented on "" at the European Conference on Permafrost 2018 in Chamonix, France [Link]()\\
+[2018-Aug-03] Nate co-authored a paper on Dark Fiber Seismology on arXiv [Link]()
+\\
+[2018-Jul-27] Nate co-authored a paper on Permafrost Thaw [Link]()
+\\
+[2018-Jul-13] Nate presented on "" at the Seafloor Sensors Workshop in Newport, OR [Link]()
+\\
+[2018-Jun-28] Nate presented on "" at the European Conference on Permafrost 2018 in Chamonix, France [Link]()
+\\
 [2018-Jul-27] Nate visited ETH Zurich, Switzerland
-[2018-Jul-27] Nate co-authored a paper on  [Link]()\\
-[2018-May-16] Nate presented on "" at the Seismological Society of America Conference 2018 in Miami, FL [Link]()\\
+\\
+[2018-Jul-27] Nate co-authored a paper on  [Link]()
+\\
+[2018-May-16] Nate presented on "" at the Seismological Society of America Conference 2018 in Miami, FL [Link]()
+\\
 [2017-Dec-15]  Nate presented a poster at the AGU Fall Meeting in New Orleans...thanks for the travel grant PYRN! [Link]()
 \\
 [2017-Dec-08]  'Fiber-Optic Network Observations of Earthquake Wavefields' published in Geophysical Research Letters [Link](http://onlinelibrary.wiley.com/doi/10.1002/2017GL075722/full)
