@@ -4,7 +4,9 @@ summary: "About this page."
 date: 2018-Jan-15
 layout: default
 ---
-![Researcher Portrait](assets/images/fairbanks/nateTrench.JPG "nateTrench"){:width="360px"}{: .image-left }**2015 -**			-- Ph.D. in Geophysics, University of California, Berkeley\\**2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory \\**2011 - 2012** -- MSc. in Geophysics, University of Edinburgh \\**2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester \\
+<img align="left" width="100" height="100" src="assets/images/fairbanks/nateTrench.JPG">
+**2015 -**			-- Ph.D. in Geophysics, University of California, Berkeley\\**2012 - 2015** -- Senior Research Associate, Lawrence Berkeley National Laboratory \\**2011 - 2012** -- MSc. in Geophysics, University of Edinburgh \\**2006 - 2011** -- B.S. in Alternative Energy and Sustainable Engineering, University of Rochester
+\\
 
 I am currently a PhD student in the [Earth and Planetary Science Department](https://sites.agu.org/) at UC Berkeley, where I study Alaskan permafrost thaw, fluid-solid seafloor dynamics, and common anthropogenic noise sources with distributed fiber optic geophysics.
 \\
