@@ -4,7 +4,6 @@ summary: "About this page."
 date: 2018-Jan-15
 layout: default
 ---
-![Researcher Portrait](assets/images/rfs/nateSplice.jpg "nateSplice"){:width="360px"}
 [2018-Aug-03] Nate co-authored a paper on Dark Fiber Seismology on arXiv [Link]()\\
 [2018-Jul-27] Nate co-authored a paper on Permafrost Thaw [Link]()\\
 [2018-Jul-13] Nate presented on "" at the Seafloor Sensors Workshop in Newport, OR [Link]()\\
