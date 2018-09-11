@@ -6,9 +6,9 @@ layout: default
 ---
 My research focuses on crustal process dynamics, curious signals, and emerging methodologies and tools.
 
-## Fiber-Optic Geophysics
+## Dark Fiber-Optic Geophysics
 <img align="left" width="330" height="250" src="assets/images/rfs/nateSplice.jpg">
-Distributed sensor networks acoustic sensing (DAS) is a new form of fiber-optic sensing that records seismic datasets that are dense (1 sensing point per meter) over many kilometers of length. More established forms of fiber-optic geophysics include distributed temperature sensing (DTS) and distributed strain sensing (DSS).
+Fiber-optic cables cover the planet and exist offshore and in urban areas. Emerging distributed fiber-optic tools are transforming these cables into dense arrays of sensors that can be used to make array measurements of acoustic, temperature, and strain fields. Our group is using these methods to study permafrost degradation in Alaska, oceanography and the seismo-acoustic coupling of the ocean and the solid earth, and seismic event detection.
 \\
 \\
 \\
