@@ -16,7 +16,8 @@ Fiber-optic cables cover the planet and exist offshore and in urban areas. Emerg
 \\
 
 **Permafrost thaw dynamics and infrastructure hazard**
-<img align="left" width="330" height="250" src="assets/images/rfs/nateSplice.jpg">
+<img align="left" width="330" height="250" src="assets/images/alaska/Fig3HeatingTemp.jpg">
+<img align="left" width="330" height="250" src="assets/images/alaska/edm.jpg">
 I have used DAS to study earthquakes at local to teleseismic distances, seismic wave propagation, anthropogenic noise sources such as vehicles and trains, and the permafrost thaw process. I have also focused on understanding the sensitivity of the DAS instrument, specifically to signals that are relevant to earth scientists (frequency=0.02 - 1 Hz), which enables application of DAS to measurements of geodetic phenomena.  which I have applied to study long-term permafrost thaw warming and permafrost degradation for the purposes of monitoring infrastructure and buildings for evolving permafrost thaw hazards.
 \\
 
